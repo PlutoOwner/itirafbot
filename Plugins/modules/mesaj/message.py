@@ -21,7 +21,7 @@ from config import kanal
 
 
 
-startmesaj = "\n\nHoş geldin** __Kimseye söylemediğiniz itirafları bana anlatabilirsiniz__" 
+startmesaj = "\n**Hoş geldin**\n__Kimseye söylemediğiniz itirafları bana anlatabilirsiniz__" 
 qrupstart = "✅ **Aktifim!** 💌 **İtiraf yazmak için özelden yazın"
 itirafmsg = "**İtirafınızı nasıl paylaşırsınız?** 🤔"
 itirafyaz = "**İşte bir itiraf yaz daha sonra herkese açık mı yoksa anonim mi olacağını soracağım** 😍"
